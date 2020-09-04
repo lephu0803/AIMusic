@@ -1,0 +1,7 @@
+[core]
+    remote = ml-server
+['remote "ml-server"']
+    url = ssh://viws.ddns.net/mnt/sdc1/Projects/viMusic/dvc
+    user = vimusic
+    port = 22
+    password = vimusic1
