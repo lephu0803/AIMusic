@@ -1,3 +1,4 @@
+
 README FOR THE PROJECT
 
 If you use this for the first time, type this:
@@ -18,3 +19,7 @@ conda env update --file environment.yml --prune
 ```
 
 Hope you have a great day :heartbeat:
+=======
+# AIMusic
+AI Music 
+
